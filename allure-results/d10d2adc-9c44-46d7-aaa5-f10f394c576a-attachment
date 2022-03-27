@@ -1,0 +1,36 @@
+{
+  "name" : "my cart",
+  "cartInnerlist" : [ {
+    "name" : "Беспроводные наушники Redmi Airdots для телефона айфон и андроид",
+    "price" : 999,
+    "biggestPrice" : null
+  }, {
+    "name" : "Беспроводные наушники Xiaomi QCY T1C",
+    "price" : 1795,
+    "biggestPrice" : null
+  }, {
+    "name" : "Беспроводные наушники Xiaomi AirDots S обновленная модель с шумоподавлением черные",
+    "price" : 2321,
+    "biggestPrice" : null
+  }, {
+    "name" : "Беспроводные наушники Xiaomi True Wireless Earphones 2 Basic",
+    "price" : 3235,
+    "biggestPrice" : true
+  }, {
+    "name" : "Беспроводные наушники Xiaomi Redmi AirDots 2 обновленная модель",
+    "price" : 1781,
+    "biggestPrice" : null
+  }, {
+    "name" : "Наушники Bluetooth Xiaomi Haylou GT1 белые",
+    "price" : 2151,
+    "biggestPrice" : null
+  }, {
+    "name" : "Беспроводные наушники Xiaomi True Wireless Earbuds Basic 2 (Airdots2)",
+    "price" : 1149,
+    "biggestPrice" : null
+  }, {
+    "name" : "Беспроводные наушники Xiaomi True Wireless Earbuds Basic 2 (Airdots2)",
+    "price" : 1149,
+    "biggestPrice" : null
+  } ]
+}

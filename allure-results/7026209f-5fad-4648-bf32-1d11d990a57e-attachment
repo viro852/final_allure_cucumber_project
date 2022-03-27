@@ -1,0 +1,36 @@
+{
+  "name" : "my cart",
+  "cartInnerlist" : [ {
+    "name" : "Беспроводные наушники XIAOMI Redmi Buds 3 Lite, черный",
+    "price" : 2523,
+    "biggestPrice" : null
+  }, {
+    "name" : "Беспроводные наушники Redmi Airdots для телефона айфон и андроид",
+    "price" : 999,
+    "biggestPrice" : null
+  }, {
+    "name" : "Беспроводные наушники Xiaomi QCY T1C",
+    "price" : 1795,
+    "biggestPrice" : null
+  }, {
+    "name" : "Беспроводные наушники Xiaomi Redmi AirDots 2 обновленная модель",
+    "price" : 1781,
+    "biggestPrice" : null
+  }, {
+    "name" : "Беспроводные наушники Xiaomi AirDots S обновленная модель с шумоподавлением белые",
+    "price" : 2311,
+    "biggestPrice" : null
+  }, {
+    "name" : "Беспроводные наушники Xiaomi AirDots 2 новая модель белые",
+    "price" : 2311,
+    "biggestPrice" : null
+  }, {
+    "name" : "Беспроводные наушники Xiaomi Redmi Airdots 3",
+    "price" : 2935,
+    "biggestPrice" : true
+  }, {
+    "name" : "Беспроводные наушники Xiaomi Redmi Airdots 3",
+    "price" : 2935,
+    "biggestPrice" : null
+  } ]
+}

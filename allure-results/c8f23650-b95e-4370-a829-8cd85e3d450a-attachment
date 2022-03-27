@@ -1,0 +1,12 @@
+{
+  "name" : "my cart",
+  "cartInnerlist" : [ {
+    "name" : "Смартфон Apple iPhone 13 128GB, синий",
+    "price" : 100642,
+    "biggestPrice" : true
+  }, {
+    "name" : "Смартфон Apple iPhone 12 128GB, фиолетовый",
+    "price" : 79990,
+    "biggestPrice" : null
+  } ]
+}

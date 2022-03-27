@@ -1,0 +1,28 @@
+{
+  "name" : "my cart",
+  "cartInnerlist" : [ {
+    "name" : "Беспроводные наушники Xiaomi QCY T1C",
+    "price" : 1757,
+    "biggestPrice" : null
+  }, {
+    "name" : "Беспроводные наушники Xiaomi True Wireless Earphones Air 2S, белый",
+    "price" : 4075,
+    "biggestPrice" : null
+  }, {
+    "name" : "Xiaomi 1More AirFree True Wireless (EO002BT)",
+    "price" : 3449,
+    "biggestPrice" : null
+  }, {
+    "name" : "Беспроводные наушники Xiaomi AirDots 3, белый",
+    "price" : 4411,
+    "biggestPrice" : null
+  }, {
+    "name" : "Беспроводные наушники с шумоподавлением Xiaomi Mi True Wireless Earbuds Basic 2 Европейская версия (черный)",
+    "price" : 2295,
+    "biggestPrice" : null
+  }, {
+    "name" : "Беспроводные наушники ZMI PurPods TW101ZM GLOBAL",
+    "price" : 4899,
+    "biggestPrice" : true
+  } ]
+}

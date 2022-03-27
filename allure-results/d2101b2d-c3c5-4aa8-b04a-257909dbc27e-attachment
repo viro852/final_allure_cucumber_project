@@ -1,0 +1,12 @@
+{
+  "name" : "my cart",
+  "cartInnerlist" : [ {
+    "name" : "Смартфон Apple iPhone 11 128GB, белый",
+    "price" : 65946,
+    "biggestPrice" : true
+  }, {
+    "name" : "Смартфон Apple iPhone 12 mini 64GB, белый",
+    "price" : 65562,
+    "biggestPrice" : null
+  } ]
+}

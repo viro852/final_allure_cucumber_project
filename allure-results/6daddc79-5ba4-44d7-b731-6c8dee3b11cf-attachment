@@ -1,0 +1,28 @@
+{
+  "name" : "my cart",
+  "cartInnerlist" : [ {
+    "name" : "Смартфон Apple iPhone 11 64GB, зеленый",
+    "price" : 61890,
+    "biggestPrice" : null
+  }, {
+    "name" : "Смартфон Apple iPhone 11 128GB, черный",
+    "price" : 67854,
+    "biggestPrice" : null
+  }, {
+    "name" : "Смартфон Apple iPhone SE (2020) 64GB, белый",
+    "price" : 48090,
+    "biggestPrice" : null
+  }, {
+    "name" : "Смартфон Apple iPhone 11 128GB, белый",
+    "price" : 67496,
+    "biggestPrice" : null
+  }, {
+    "name" : "Смартфон Apple iPhone 11 64GB, белый",
+    "price" : 61140,
+    "biggestPrice" : null
+  }, {
+    "name" : "Смартфон Apple iPhone 12 128GB, синий",
+    "price" : 79990,
+    "biggestPrice" : true
+  } ]
+}
